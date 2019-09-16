@@ -1,0 +1,3 @@
+requests==2.22.0
+kickshaws @ https://github.com/wcmc-research-informatics/kickshaws/archive/master.zip
+
